@@ -1,1 +1,2 @@
-WScript.Echo("Hello, world!");
+WScript.Echo("Hello World");
+WScript.Echo("Hola Mundo");
