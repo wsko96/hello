@@ -1,1 +1,1 @@
-WScript.Echo("Hello, WISEiTECH!");
+WScript.Echo("Hello, WWWISE...");
